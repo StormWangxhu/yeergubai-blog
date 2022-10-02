@@ -1,0 +1,69 @@
+import{_ as m}from"./_plugin-vue_export-helper.cdc0426e.js";import{o as v,c as h,b as n,e,a as s,g as l,w as o,h as i,r as t}from"./app.7119fecc.js";const k={},b=n("p",null,"\u8BA9\u4F60\u7684 VuePress \u7AD9\u70B9\u4E2D\u7684 Markdown \u6587\u4EF6\u652F\u6301\u5E7B\u706F\u7247\u3002",-1),g={href:"https://revealjs.com/",target:"_blank",rel:"noopener noreferrer"},_=n("h2",{id:"\u914D\u7F6E",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#\u914D\u7F6E","aria-hidden":"true"},"#"),e(" \u914D\u7F6E")],-1),f=n("div",{class:"language-typescript ext-ts line-numbers-mode"},[n("pre",{class:"language-typescript"},[n("code",null,[n("span",{class:"token comment"},"// .vuepress/config.ts"),e(`
+`),n("span",{class:"token keyword"},"import"),e(),n("span",{class:"token punctuation"},"{"),e(" defineUserConfig "),n("span",{class:"token punctuation"},"}"),e(),n("span",{class:"token keyword"},"from"),e(),n("span",{class:"token string"},'"vuepress"'),n("span",{class:"token punctuation"},";"),e(`
+`),n("span",{class:"token keyword"},"import"),e(),n("span",{class:"token punctuation"},"{"),e(" hopeTheme "),n("span",{class:"token punctuation"},"}"),e(),n("span",{class:"token keyword"},"from"),e(),n("span",{class:"token string"},'"vuepress-theme-hope"'),n("span",{class:"token punctuation"},";"),e(`
+
+`),n("span",{class:"token keyword"},"export"),e(),n("span",{class:"token keyword"},"default"),e(),n("span",{class:"token function"},"defineUserConfig"),n("span",{class:"token punctuation"},"("),n("span",{class:"token punctuation"},"{"),e(`
+  theme`),n("span",{class:"token operator"},":"),e(),n("span",{class:"token function"},"hopeTheme"),n("span",{class:"token punctuation"},"("),n("span",{class:"token punctuation"},"{"),e(`
+    plugins`),n("span",{class:"token operator"},":"),e(),n("span",{class:"token punctuation"},"{"),e(`
+      mdEnhance`),n("span",{class:"token operator"},":"),e(),n("span",{class:"token punctuation"},"{"),e(`
+        presentation`),n("span",{class:"token operator"},":"),e(),n("span",{class:"token boolean"},"true"),n("span",{class:"token punctuation"},","),e(`
+      `),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},","),e(`
+    `),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},","),e(`
+  `),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},")"),n("span",{class:"token punctuation"},","),e(`
+`),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},")"),n("span",{class:"token punctuation"},";"),e(`
+`)])]),n("div",{class:"highlight-lines"},[n("br"),n("br"),n("br"),n("br"),n("br"),n("br"),n("br"),n("div",{class:"highlight-line"},"\xA0"),n("div",{class:"highlight-line"},"\xA0"),n("div",{class:"highlight-line"},"\xA0"),n("br"),n("br"),n("br")]),n("div",{class:"line-numbers","aria-hidden":"true"},[n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"})])],-1),q=n("div",{class:"language-javascript ext-js line-numbers-mode"},[n("pre",{class:"language-javascript"},[n("code",null,[n("span",{class:"token comment"},"// .vuepress/config.js"),e(`
+`),n("span",{class:"token keyword"},"import"),e(),n("span",{class:"token punctuation"},"{"),e(" hopeTheme "),n("span",{class:"token punctuation"},"}"),e(),n("span",{class:"token keyword"},"from"),e(),n("span",{class:"token string"},'"vuepress-theme-hope"'),n("span",{class:"token punctuation"},";"),e(`
+
+`),n("span",{class:"token keyword"},"export"),e(),n("span",{class:"token keyword"},"default"),e(),n("span",{class:"token punctuation"},"{"),e(`
+  `),n("span",{class:"token literal-property property"},"theme"),n("span",{class:"token operator"},":"),e(),n("span",{class:"token function"},"hopeTheme"),n("span",{class:"token punctuation"},"("),n("span",{class:"token punctuation"},"{"),e(`
+    `),n("span",{class:"token literal-property property"},"plugins"),n("span",{class:"token operator"},":"),e(),n("span",{class:"token punctuation"},"{"),e(`
+      `),n("span",{class:"token literal-property property"},"mdEnhance"),n("span",{class:"token operator"},":"),e(),n("span",{class:"token punctuation"},"{"),e(`
+        `),n("span",{class:"token literal-property property"},"presentation"),n("span",{class:"token operator"},":"),e(),n("span",{class:"token boolean"},"true"),n("span",{class:"token punctuation"},","),e(`
+      `),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},","),e(`
+    `),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},","),e(`
+  `),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},")"),n("span",{class:"token punctuation"},","),e(`
+`),n("span",{class:"token punctuation"},"}"),n("span",{class:"token punctuation"},";"),e(`
+`)])]),n("div",{class:"highlight-lines"},[n("br"),n("br"),n("br"),n("br"),n("br"),n("br"),n("div",{class:"highlight-line"},"\xA0"),n("div",{class:"highlight-line"},"\xA0"),n("div",{class:"highlight-line"},"\xA0"),n("br"),n("br"),n("br")]),n("div",{class:"line-numbers","aria-hidden":"true"},[n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"}),n("div",{class:"line-number"})])],-1),y=i('<p>\u4F60\u4E5F\u53EF\u4EE5\u4F20\u5165\u4E00\u4E2A\u5BF9\u8C61\u4EE5\u8FDB\u884C\u66F4\u8BE6\u7EC6\u7684\u914D\u7F6E\u3002</p><p><code>presentation.plugins</code> \u63A5\u6536\u4E00\u4E2A\u5B57\u7B26\u4E32\u6570\u7EC4\uFF0C\u53EF\u4EE5\u81EA\u7531\u914D\u7F6E\u662F\u5426\u542F\u7528\u4E00\u4E9B\u9884\u8BBE\u7684\u63D2\u4EF6\u3002</p><div class="custom-container tip"><p class="custom-container-title">\u63D0\u793A</p><p>\u53EF\u63A5\u53D7\u7684\u63D2\u4EF6\u6709:</p><ul><li><code>&quot;highlight&quot;</code></li><li><code>&quot;math&quot;</code></li><li><code>&quot;search&quot;</code></li><li><code>&quot;notes&quot;</code></li><li><code>&quot;zoom&quot;</code></li></ul><!-- - `&quot;anything&quot;`\n- `&quot;audio&quot;`\n- `&quot;chalkboard&quot;` --></div><p>\u4F60\u8FD8\u53EF\u4EE5\u4F7F\u7528 <code>presentation.revealConfig</code> \u6765\u914D\u7F6E\u5168\u5C40\u4F20\u9012\u7ED9 Reveal.js \u7684\u914D\u7F6E\u9009\u9879\u3002</p>',4),w={href:"https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware",target:"_blank",rel:"noopener noreferrer"},j={href:"https://github.com/vuepress-theme-hope/vuepress-theme-hope/issues/new?assignees=Mister-Hope&labels=enhancement&template=feature_request.md&title=%5BFeature+Request%5D",target:"_blank",rel:"noopener noreferrer"},x=i(`<h2 id="\u8BED\u6CD5" tabindex="-1"><a class="header-anchor" href="#\u8BED\u6CD5" aria-hidden="true">#</a> \u8BED\u6CD5</h2><ul><li>\u4F7F\u7528 <code>---</code> \u5206\u5272\u5E7B\u706F\u7247</li><li>\u4F7F\u7528 <code>--</code> \u5BF9\u5E7B\u706F\u7247\u8FDB\u884C\u4E8C\u6B21\u5206\u5272(\u5782\u76F4\u663E\u793A)</li></ul><div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>@slidestart [theme]
+
+<span class="token comment">&lt;!-- slide1 --&gt;</span>
+
+<span class="token hr punctuation">---</span>
+
+<span class="token comment">&lt;!-- slide2 --&gt;</span>
+
+<span class="token hr punctuation">---</span>
+
+<span class="token comment">&lt;!-- slide3 --&gt;</span>
+
+@slideend
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>\u76EE\u524D\u53EF\u7528\u7684\u4E3B\u9898(\u8BF7\u4F7F\u7528\u5B83\u4EEC\u76F4\u63A5\u66FF\u6362 <code>[theme]</code>):</p><ul><li><code>auto</code> (\u9ED8\u8BA4)</li><li><code>black</code></li><li><code>white</code></li><li><code>league</code></li><li><code>beige</code></li><li><code>sky</code></li><li><code>night</code></li><li><code>serif</code></li><li><code>simple</code></li><li><code>solarized</code></li><li><code>blood</code></li><li><code>moon</code></li></ul>`,5),U={href:"https://vuepress-theme-hope.github.io/v2/md-enhance/zh/guide/presentation/themes.html",target:"_blank",rel:"noopener noreferrer"},C=n("h2",{id:"\u6F14\u793A",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#\u6F14\u793A","aria-hidden":"true"},"#"),e(" \u6F14\u793A")],-1),V=i(`<div class="language-markdown ext-md line-numbers-mode"><pre class="language-markdown"><code>@slidestart
+
+<span class="token title important"><span class="token punctuation">##</span> \u5E7B\u706F\u7247 1</span>
+
+\u4E00\u4E2A\u6709\u6587\u5B57\u548C <span class="token url">[<span class="token content">\u94FE\u63A5</span>](<span class="token url">https://mrhope.site</span>)</span> \u7684\u6BB5\u843D
+
+<span class="token hr punctuation">---</span>
+
+<span class="token title important"><span class="token punctuation">##</span> \u5E7B\u706F\u7247 2</span>
+
+<span class="token list punctuation">-</span> \u9879\u76EE 1
+<span class="token list punctuation">-</span> \u9879\u76EE 2
+
+<span class="token hr punctuation">---</span>
+
+<span class="token title important"><span class="token punctuation">##</span> \u5E7B\u706F\u7247 3.1</span>
+
+<span class="token code"><span class="token punctuation">\`\`\`</span><span class="token code-language">js</span>
+<span class="token code-block language-js"><span class="token keyword">const</span> a <span class="token operator">=</span> <span class="token number">1</span><span class="token punctuation">;</span></span>
+<span class="token punctuation">\`\`\`</span></span>
+
+--
+
+<span class="token title important"><span class="token punctuation">##</span> \u5E7B\u706F\u7247 3.2</span>
+
+$$
+J(\\theta_0,\\theta_1) = \\sum_{i=0}
+$$
+
+@slideend
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,1),z={class:"custom-container tip"},F=n("p",{class:"custom-container-title"},"\u63D0\u793A",-1),P={href:"https://vuepress-theme-hope.github.io/v2/md-enhance/zh/guide/presentation/demo.html",target:"_blank",rel:"noopener noreferrer"},R=n("h2",{id:"\u9009\u9879",tabindex:"-1"},[n("a",{class:"header-anchor",href:"#\u9009\u9879","aria-hidden":"true"},"#"),e(" \u9009\u9879")],-1),T=n("p",null,[e("\u4F60\u53EF\u4EE5\u5728 Frontmatter \u8BBE\u7F6E "),n("code",null,"reveal"),e(" \u4EE5\u8BBE\u7F6E\u7279\u5B9A\u9875\u9762\u7684 reveal.js \u9009\u9879\uFF0C\u4E5F\u53EF\u4EE5\u5728\u63D2\u4EF6\u9009\u9879\u4E2D\u8BBE\u7F6E "),n("code",null,"presentation"),e(" \u4EE5\u5168\u5C40\u8BBE\u7F6E reveal.js\u3002")],-1),B={href:"https://revealjs.com/config/",target:"_blank",rel:"noopener noreferrer"},A={href:"https://revealjs.com/",target:"_blank",rel:"noopener noreferrer"};function E(G,J){const a=t("ExternalLinkIcon"),c=t("CodeTabs"),r=t("Presentation");return v(),h("div",null,[b,n("p",null,[e("\u6211\u4EEC\u4F7F\u7528 "),n("a",g,[e("reveal.js"),s(a)]),e(" \u6765\u652F\u6301\u8FD9\u4E00\u529F\u80FD\u3002")]),l(" more "),l("lint disable no-duplicate-headings"),_,s(c,{id:"11",data:[{title:"TS"},{title:"JS"}],"tab-id":"language"},{tab0:o(({title:p,value:d,isActive:u})=>[f]),tab1:o(({title:p,value:d,isActive:u})=>[q]),_:1}),y,n("p",null,[e("Reveal.js \u8FD8\u63D0\u4F9B\u4E86"),n("a",w,[e("\u66F4\u591A\u7684\u63D2\u4EF6"),s(a)]),e("\u3002\u5982\u679C\u4F60\u9700\u8981\u67D0\u4E2A\u7279\u5B9A\u7684\u63D2\u4EF6\uFF0C\u8BF7\u5728 GitHub \u4E0A\u63D0\u51FA "),n("a",j,[e("Feature Request"),s(a)])]),x,n("p",null,[e("\u4E3B\u9898\u6F14\u793A\uFF0C\u8BF7\u8BE6\u89C1 "),n("a",U,[e("\u5E7B\u706F\u7247\u4E3B\u9898"),s(a)])]),C,s(r,{id:"presentation-151",code:"eNrjUlZWeLpz9/PG9c872xUMubie7Gh4smPVszmdz6a1P107/emkHoXol5P3PetbGquRUVJSUGylr59blJFfkKpXnFmSqqnwfFbLs3VbX0zYy8Wlq6vLhWqgEVBQ4eXCnc9nrwMaDmeChDHUGusBrU9ISMgq5krOzysuUUhUsFUwtAYJgZRjqAYaoqLC5aURU5KRWpIYb6ADZRhqAvXFFJfmxldn2hrUghQBAI9BXC0=",theme:"auto"}),V,n("div",z,[F,n("p",null,[e("\u8BE6\u7EC6\u4E0E\u5B8C\u6574\u7684\u6F14\u793A\u8BE6\u89C1 "),n("a",P,[e("\u5E7B\u706F\u7247\u6F14\u793A"),s(a)]),e("\u3002")])]),R,T,n("p",null,[e("\u66F4\u591A\u9009\u9879\uFF0C\u8BF7\u53C2\u89C1"),n("a",B,[e("reveal.js config"),s(a)]),e("\uFF0C\u66F4\u591A\u7528\u6CD5\uFF0C\u8BF7\u53C2\u9605 "),n("a",A,[e("reveal.js \u6587\u6863"),s(a)]),e("\u3002")])])}const S=m(k,[["render",E],["__file","presentation.html.vue"]]);export{S as default};

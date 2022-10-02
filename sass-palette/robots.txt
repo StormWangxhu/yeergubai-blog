@@ -1,0 +1,7 @@
+User-agent:*
+Disallow:
+
+User-agent:*
+Disallow:
+
+Sitemap: https://stormwangxhu.github.io/yeergubai-blog/sass-palette/sitemap.xml
