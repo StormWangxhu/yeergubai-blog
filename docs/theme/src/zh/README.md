@@ -3,12 +3,16 @@ home: true
 title: 主页
 icon: home
 heroImage: /logo.svg
-heroText: vuepress-theme-hope
-tagline: 一个具有强大功能的 vuepress 主题✨
+heroText: 春秋的博客
+tagline: 专注于学习、交流、分享✨
 actions:
   - text: 快速上手 💡
     link: /zh/guide/
     type: primary
+
+  - text: 我的博客
+    link: /zh/my-blog/
+    type: primary 
 
   - text: 配置 🛠
     link: /zh/config/

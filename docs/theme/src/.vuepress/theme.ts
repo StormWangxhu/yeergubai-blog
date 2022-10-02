@@ -36,7 +36,7 @@ export default hopeTheme({
   pageInfo: ["Category", "Tag", "ReadingTime"],
 
   blog: {
-    name: "VuePress Theme Hope",
+    name: "Yeergubai blog",
   },
 
   themeColor: {

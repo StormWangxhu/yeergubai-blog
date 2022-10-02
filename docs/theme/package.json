@@ -5,9 +5,9 @@
   "description": "Docs for vuepress-theme-hope",
   "license": "MIT",
   "author": {
-    "name": "Mr.Hope",
-    "email": "mister-hope@outlook.com",
-    "url": "https://mrhope.site"
+    "name": "StormWangxhu",
+    "email": "stormwangxhu@163.com",
+    "url": "https://stormwangxhu.github.io/yeergubai-blog"
   },
   "scripts": {
     "docs:vite-build": "vuepress-vite build src",

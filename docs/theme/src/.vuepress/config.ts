@@ -25,8 +25,8 @@ export default config(
       },
       "/zh/": {
         lang: "zh-CN",
-        title: "vuepress-theme-hope",
-        description: "一个具有强大功能的 vuepress 主题✨",
+        title: "春秋的博客",
+        description: "专注于学习、交流和分享✨",
       },
       "/ru/": {
         lang: "ru-RU",
